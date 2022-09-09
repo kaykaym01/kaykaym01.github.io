@@ -1,2 +1,2 @@
 # kaykaym01.github.io
-Personal portfolio built with HTML, CSS, JavaScript, and Bootstrap
+Personal portfolio built with HTML, CSS, and JavaScript.
